@@ -1,8 +1,15 @@
-# Hey there, my name is Fernando Garbato!
+# Hey there, i'm Fernando Garbato!
 
-Atualmente estudante de TADS, exploro diversos temas e abordagens nos meus repositórios, sempre tentando prover código limpo e de boa utilidade, para us
+Currently a Systems Development and Analysis student, i take different themes and approaches software development, and I love discovering new languages and tackling different scenarios, always maintaining clean and useful code.
 
-Entre em contato comigo pelo e-mail na descrição do perfil. Estou aberto a colaborações e compartilhamento de experiências!
+For collaboration and professional related matters, you can contact me via Gmail. I'm also open for experience sharing on other social platforms!
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:fernandogarbato@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-moura-garbato-a206171aa/" alt="LinkedIn"/></a>
+</p>
 
 ## Knownledge and skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="Dotnet"/></code>
