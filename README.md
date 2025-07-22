@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Overview&message=Fernando Moura Garbato&color=ededed&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Fernando%20Moura%20Garbato&color=ededed&style=for-the-badge&logo=GitHub%22" alt="Static GitHub">
 
 <h1> 🔎 Hey there, i'm Fernando! </h1>
 
